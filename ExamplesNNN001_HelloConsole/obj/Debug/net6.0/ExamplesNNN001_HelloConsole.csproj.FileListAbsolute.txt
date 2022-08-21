@@ -1,0 +1,15 @@
+C:\GB\ExamplesNNN\ExamplesNNN001_HelloConsole\bin\Debug\net6.0\ExamplesNNN001_HelloConsole.exe
+C:\GB\ExamplesNNN\ExamplesNNN001_HelloConsole\bin\Debug\net6.0\ExamplesNNN001_HelloConsole.deps.json
+C:\GB\ExamplesNNN\ExamplesNNN001_HelloConsole\bin\Debug\net6.0\ExamplesNNN001_HelloConsole.runtimeconfig.json
+C:\GB\ExamplesNNN\ExamplesNNN001_HelloConsole\bin\Debug\net6.0\ExamplesNNN001_HelloConsole.dll
+C:\GB\ExamplesNNN\ExamplesNNN001_HelloConsole\bin\Debug\net6.0\ExamplesNNN001_HelloConsole.pdb
+C:\GB\ExamplesNNN\ExamplesNNN001_HelloConsole\obj\Debug\net6.0\ExamplesNNN001_HelloConsole.csproj.AssemblyReference.cache
+C:\GB\ExamplesNNN\ExamplesNNN001_HelloConsole\obj\Debug\net6.0\ExamplesNNN001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\ExamplesNNN\ExamplesNNN001_HelloConsole\obj\Debug\net6.0\ExamplesNNN001_HelloConsole.AssemblyInfoInputs.cache
+C:\GB\ExamplesNNN\ExamplesNNN001_HelloConsole\obj\Debug\net6.0\ExamplesNNN001_HelloConsole.AssemblyInfo.cs
+C:\GB\ExamplesNNN\ExamplesNNN001_HelloConsole\obj\Debug\net6.0\ExamplesNNN001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\GB\ExamplesNNN\ExamplesNNN001_HelloConsole\obj\Debug\net6.0\ExamplesNNN001_HelloConsole.dll
+C:\GB\ExamplesNNN\ExamplesNNN001_HelloConsole\obj\Debug\net6.0\refint\ExamplesNNN001_HelloConsole.dll
+C:\GB\ExamplesNNN\ExamplesNNN001_HelloConsole\obj\Debug\net6.0\ExamplesNNN001_HelloConsole.pdb
+C:\GB\ExamplesNNN\ExamplesNNN001_HelloConsole\obj\Debug\net6.0\ExamplesNNN001_HelloConsole.genruntimeconfig.cache
+C:\GB\ExamplesNNN\ExamplesNNN001_HelloConsole\obj\Debug\net6.0\ref\ExamplesNNN001_HelloConsole.dll
